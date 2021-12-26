@@ -1,5 +1,5 @@
 /*
-通用分享，请先群里设置配置 2021-12-21 23:19
+通用分享，请先群里设置配置 2021-12-26 22:19
 */
 const $ = new Env('通用分享');
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
